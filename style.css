@@ -1,0 +1,29 @@
+body {
+    background:linear-gradient(to right top , #80d9ed , #3db5cf , #3dc5e4 , #1ea9c9 , #09a4ca)
+}
+.btn_heading {
+    font-family:Comic Neue;
+    color:black;
+}
+.name_of_person {
+    color:black;
+}
+#btn_check {
+    color:black;
+    border-radius:10px;
+    border-width:2px;
+}
+#btn_capture {
+    color:black;
+    border-radius:10px;
+    border-width:2px;
+    border-color:black;
+}
+#Sub_heading {
+    color:black;
+}
+#camera {
+    border-style:dashed;
+    width:350px;
+    height:300px;
+}
